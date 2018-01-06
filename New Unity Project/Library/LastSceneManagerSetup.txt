@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Levels/ProtoLevel/ProtoLevel.unity
+- path: Assets/Levels/Character Interaction Level/CharacterInteractionLevel.unity
   isLoaded: 1
   isActive: 1
