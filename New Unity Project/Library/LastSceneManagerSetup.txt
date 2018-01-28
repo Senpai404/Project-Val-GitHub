@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Levels/Character Interaction Level/CharacterInteractionLevel.unity
-  isLoaded: 1
-  isActive: 1
